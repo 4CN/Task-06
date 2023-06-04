@@ -637,17 +637,13 @@ a {
 /* ======START FOOTER====== */
 .footer {
   background-color: #2f303a;
+  padding-top: 60px;
   padding-bottom: 60px;
 }
 
 .footer-container {
   display: flex;
-  /* margin-bottom: 0px; */
   align-items: baseline;
-}
-
-.footer-address-section {
-  margin-top: 60px;
 }
 
 .address {
@@ -734,7 +730,7 @@ a {
 }
 
 .mail-subscribe {
-  padding-left: 92px;
+  margin-left: auto;
 }
 
 .subscribe-input {
